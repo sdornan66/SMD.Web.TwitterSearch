@@ -199,33 +199,12 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="ExternalLibraries\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
-    <Content Include="ExternalLibraries\Autofac.dll" />
-    <Content Include="ExternalLibraries\Autofac.xml" />
-    <Content Include="ExternalLibraries\FakeItEasy.dll" />
-    <Content Include="ExternalLibraries\FakeItEasy.xml" />
-    <Content Include="ExternalLibraries\Tweetinvi.Controllers.dll" />
-    <Content Include="ExternalLibraries\Tweetinvi.Controllers.pdb" />
-    <Content Include="ExternalLibraries\Tweetinvi.Core.dll" />
-    <Content Include="ExternalLibraries\Tweetinvi.Core.pdb" />
-    <Content Include="ExternalLibraries\Tweetinvi.Credentials.dll" />
-    <Content Include="ExternalLibraries\Tweetinvi.Credentials.pdb" />
-    <Content Include="ExternalLibraries\Tweetinvi.dll" />
-    <Content Include="ExternalLibraries\Tweetinvi.Factories.dll" />
-    <Content Include="ExternalLibraries\Tweetinvi.Factories.pdb" />
-    <Content Include="ExternalLibraries\Tweetinvi.Logic.dll" />
-    <Content Include="ExternalLibraries\Tweetinvi.Logic.pdb" />
-    <Content Include="ExternalLibraries\Tweetinvi.pdb" />
-    <Content Include="ExternalLibraries\Tweetinvi.Security.dll" />
-    <Content Include="ExternalLibraries\Tweetinvi.Security.pdb" />
-    <Content Include="ExternalLibraries\Tweetinvi.Streams.dll" />
-    <Content Include="ExternalLibraries\Tweetinvi.Streams.pdb" />
-    <Content Include="ExternalLibraries\Tweetinvi.WebLogic.dll" />
-    <Content Include="ExternalLibraries\Tweetinvi.WebLogic.pdb" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />

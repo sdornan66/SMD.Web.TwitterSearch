@@ -5,7 +5,9 @@ using System.Web;
 
 namespace SMD.Web.TwitterSearch
 {
-
+/// <summary>
+/// The SMDTweet class is used to transport just the information needed out of the enourmous twqitter api
+/// </summary>
     public class SMDTweet
     {
         public ulong TweetID { get; set; }
